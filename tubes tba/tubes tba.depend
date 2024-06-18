@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1718524687 source:d:\kuliah\smt 4\tba\tubes tba\main.cpp
+	<iostream>
+	<windows.h>
+	"spok.h"
+
+1718522925 d:\kuliah\smt 4\tba\tubes tba\spok.h
+	<iostream>
+
+1718524688 source:d:\kuliah\smt 4\tba\tubes tba\spok.cpp
+	"spok.h"
+
+1718627920 source:d:\tubes tba\main.cpp
+	<iostream>
+	<windows.h>
+	"spok.h"
+
+1718626665 d:\tubes tba\spok.h
+	<iostream>
+
+1718628508 source:d:\tubes tba\spok.cpp
+	"spok.h"
+
